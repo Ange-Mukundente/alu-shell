@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-=printing the PID of my process
+# printing the PID of my process
 
 echo $$
