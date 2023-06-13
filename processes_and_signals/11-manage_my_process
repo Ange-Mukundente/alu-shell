@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # manage 
-. /lib/lsb/init-functions
+/lib/lsb/init-functions
 
 PIDFILE=/var/run/my_process.pid
 
